@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_collegepassblack.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/drawable-mdpi/assets_collegepassblack.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_menu.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/drawable-mdpi/assets_menu.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_collegepass.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/drawable-mdpi/assets_collegepass.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mojo/Desktop/React/collegepass/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mojo/Desktop/React/collegepass/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

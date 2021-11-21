@@ -1,0 +1,14 @@
+com/collegepass/MainApplication.java
+ com.collegepass.MainApplication
+ com.collegepass.MainApplication$1
+com/collegepass/ReactNativeFlipper.java
+ com.collegepass.ReactNativeFlipper
+ com.collegepass.ReactNativeFlipper$1
+ com.collegepass.ReactNativeFlipper$2
+ com.collegepass.ReactNativeFlipper$2$1
+com/collegepass/MainActivity.java
+ com.collegepass.MainActivity
+com/collegepass/BuildConfig.java
+ com.collegepass.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
